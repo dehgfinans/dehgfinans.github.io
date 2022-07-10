@@ -33,3 +33,12 @@ h3 {
 	font-family: Georgia;
 	margin-top: -20px;
 }
+
+address { 
+    font-style:normal;
+ }
+
+ a {
+    color: #686868;
+    text-decoration: none;
+ }
